@@ -1,0 +1,7 @@
+{
+  "name": "bower.darthvader",
+  "version": "0.0.1",
+  "description": "Private darthvader bower repository.",
+  "main": "ui-bootstrap-custom-tpls-0.10.0.min.js",
+  "license": "MIT"
+}
